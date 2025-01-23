@@ -9,6 +9,8 @@ labels:
   - TypeScript
 ---
 
+![](img/typesrciptimg.png)
+
 As someone who had almost no prior experience programming in JavaScript, learning TypeScript was definitely an interesting, yet challenging experience. Like learning any new programming language, getting used to the syntax was definitely a challenge to overcome, but once I got over that, I started to see some of the advantages of programming in this new language. 
 
 Before learning TypeScript and JavaScript, the programming languages I was most familiar with were Java, C, and C++ from my prior programming classes I took in University. In the end, learning TypeScript has mainly highlighted a couple ideas to me, like how TypeScript compares to the languages I knew prior, how the language can be good from a software engineering perspective, and ultimately how a new style of learning in my software engineering class will change how I learn new material.
