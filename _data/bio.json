@@ -43,76 +43,54 @@
       "area": "Computer Science (expected Fall 2027)",
       "studyType": "B.S",
       "startDate": "2024-08-26",
-      "endDate": "2024-12-20",
+      "endDate": "Present",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Cold Stone Creamery Kihei",
+      "position": "Assistant Manager",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-02-22",
+      "endDate": "2024-08-14",
+      "summary": "Oversaw closing shifts and helped organized charity events",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Able to work with a team and provide as a leader", "Able to work in a food & beverage environment", "Food Safety Certified"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Maui Humane Society",
+      "website": "https://www.mauihumanesociety.org/",
+      "position": "Volunteer",
+      "startDate": "2021-08-27",
+      "endDate": "2022-01-17",
+      "summary": "Assisted staff members and helped take care of cats",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "First time working in a job like environment", "Learned valueable communication skills"
       ]
     },
     {
-      "organization": "",
+      "organization": "Grey Hats UH Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Member",
+      "startDate": "2024-09-05",
+      "endDate": "2024-12-20",
+      "summary": "Learned a small insight into cyber security",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "First time stepping foot in cyber security", "Learned how to operate in VIM", "Learned how to use basic Linux"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Transfer Merit Scholarship",
+      "date": "2024-Present",
+      "awarder": "University of Hawai'i",
+      "summary": "The UH Mānoa Office of Admissions recognizes and celebrates the academic strengths of incoming transfer students through these scholarship awards."
     }
   ],
   "references": [
