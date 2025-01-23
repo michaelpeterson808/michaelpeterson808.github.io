@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/database3.png
 title: "Bank Database System in C/C++"
 date: 2024-11-26
 published: true
