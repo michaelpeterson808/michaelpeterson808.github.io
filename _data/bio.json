@@ -20,21 +20,30 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Hawaii: Maui College",
+      "area": "Liberal Arts (Prerequisites)",
+      "studyType": "A.A.",
+      "startDate": "2022-08-21",
+      "endDate": "2024-05-10",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science (expected Fall 2027)",
+      "studyType": "B.S",
+      "startDate": "2024-08-26",
+      "endDate": "2024-12-20",
       "courses": [
       ]
     }
