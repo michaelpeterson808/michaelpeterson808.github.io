@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/database3.png
+image: img/tictactoe.png
 title: "Tic Tac Toe Minigame"
 date: 2023-03-15
 published: true
