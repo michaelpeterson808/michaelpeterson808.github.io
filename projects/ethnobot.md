@@ -16,6 +16,8 @@ This project was for a final in my first semester at the University of Hawai'i a
 
 The plant that I chose to base my project around was the Pandanus tectorius, known as 'Hala' in Hawaiian. The plant's leaves when dried out made perfect material for making baskets and floor mats.  The project mainly consisted of long periods of collecting, drying, and weaving.
 
+![image](https://github.com/user-attachments/assets/24099ef7-dd5a-4d8f-bab3-176d0d507a78)
+
 To collect the materials, I had to go around the UHMC campus and collect all the fallen leaves from the Hala trees, strip them of their thorns, and strip the leaves into evenly cut pieces that would eventually be woven into each other to form a basket. I heavly underestimated how long the process of weaving would take, especially considering how small I was making the baskets. In the end, I was proud with how they came out and was a very fun learning experience from start to finish. 
 
 The main takeaways I got from this project was doing research on a subject that had very little information on, since the Hawaiians did not have a written langauge, orally passing down their traditions was the only way. Finding someone who had the tradition passed down to them was definitely the biggest challenge in this entire project.
