@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Cyber Security" },
-    { "name": "Video Game Development" }
+    { "name": "Software Engineering"},
+    { "name": "Cyber Security"},
+    { "name": "Video Game Development"}
   ],
   "skills": [
     {
