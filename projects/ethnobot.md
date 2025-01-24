@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/database3.png
+image: img/botany.png
 title: "Hawaiian Ethnobotany Basket"
 date: 2022-12-01
 published: true
