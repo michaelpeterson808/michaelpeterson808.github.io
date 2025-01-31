@@ -1,4 +1,14 @@
-## Ask Smart Questions, Get Smart Answers
+---
+layout: essay
+type: essay
+title: "Ask Smart Questions, Get Smart Answers"
+# All dates must be YYYY-MM-DD format!
+date: 2025-01-30
+published: true
+labels:
+  - StackOverflow
+  - Software Engineering
+---
 
 In the world of programming, it is bound for programmers to get stuck writing code every once and a while. Whether it might be a small syntax error like a missing semicolon or a small bug that is unaware to them, there are many things that can go unnoticed while programming. However, with the help of people other than the programmer, it can be made easier to unclog the problem, and help keep the flow of the software development flowing. I believe a valuable skill that every software engineer should learn is how to ask ‘smart’ questions. Asking questions on programming websites like StackOverflow has always been a good way to get outside help on your code whenever you get stuck, but depending on how questions are structured, could ultimately alter the type of answers you get sent back.
 
