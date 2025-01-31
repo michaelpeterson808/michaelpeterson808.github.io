@@ -36,3 +36,5 @@ This is a bad example of how to ask questions on StackOverflow. The user’s top
 ## Conclusion
 
 In conclusion, having ‘smart’ questions being time efficient is probably one of the biggest takeaways from asking them. “Not so smart” questions should be avoided at all costs to save time for yourself and the people trying to answer your questions. Having “smart” questions will give you a better chance of having your questions answered quickly and effectively. I believe that knowing the skill of ‘asking smart questions’ is a great trait to have as a software engineer because there’s no telling when we will run into a sudden halt in our program in need of help from others.
+
+AI was used to enchance the grammar for this essay.
