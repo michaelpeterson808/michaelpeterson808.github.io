@@ -25,6 +25,7 @@ This is a good example of a ‘smart’ question
 Getting stuck on a problem and seeking answers can be frustrating to most people and being in a rush to get quick solutions can ultimately lead you to getting bad replies or your questions not being answered. Asking ‘smart’ questions is a good way to avoid this, but there are always bad ways of asking questions too. Not following the previously mentioned guidelines is a one way ticket towards that direction. Some examples of asking ‘bad’ questions can start with even the topic header. Since the topic header is the first thing readers will see about the problem, not being concise and straight to the point in the topic header can put the question at a bigger chance of not being answered or lead to bad answers. Another bad question could be a problem that can easily be solved, instead of waiting around for someone else’s input on the problem, solving a small problem on your own could save more time.
 
 [Link to the Original Post](https://stackoverflow.com/questions/37123706/lex-and-yacc-to-make-compiler)
+![image](https://github.com/user-attachments/assets/562ebd9c-4552-48bb-be15-3c48a67e5153)
 ![image](https://github.com/user-attachments/assets/af4e1468-4d97-41c0-bbb7-743fe44399fb)
 ![image](https://github.com/user-attachments/assets/2568cb4e-8914-4fa1-b734-cb851a965493)
 
