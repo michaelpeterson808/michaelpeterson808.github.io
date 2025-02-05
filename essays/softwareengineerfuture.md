@@ -21,4 +21,4 @@ Taking this new class has increased my interest in software engineering through 
 Since I’ve been pretty lost as to what I want to do in computer science, I hope that through software engineering, I find the path that’s right for me. I aim to use all the skills I develop within software engineering and use it for jobs and courses that I plan on taking in the future. Jobs in software engineering pay very well, and it’s a goal to have a well-paying job as a day job. Even if software engineering might not be for me, it will help me in the right direction in my search for a career.
 
 
-Ai was used to enhance the title and grammar of this essay. Testing
+Ai was used to enhance the title and grammar of this essay. 
