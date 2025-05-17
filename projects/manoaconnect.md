@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tictactoe.png
+image: img/ManoaConnectCenterLogo3.png
 title: "Manoa Connect"
 date: 2023-05-16
 published: true
